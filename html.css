@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.header_logo {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.header_nav1 {
+    width: 580px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link1 {
+    color: black;
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: center;
+    gap: 94px;
+}
+
+.nav-link1:hover {
+    color: #FA4A0C;
+}
+
+.hero-section {
+    background: url('img/Rectangle\ 42348.png') no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.hero-title1 {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: center;
+}
+
+h1 {
+    font-family: Poppins;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 80px;
+    text-align: center;
+    width: 799px;
+    margin: 0 auto;
+}
+
+.button-group {
+    gap: 1rem;
+}
+
+.btn-primary {
+    background-color: #ff5722;
+    border-color: #ff5722;
+}
+
+.btn-outline-light {
+    color: white;
+    border-color: white;
+}
+
+
+
+.how-it-works-section {
+    padding: 4rem 0;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+h5 {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 38px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: #737373;
+}
+
+h4 {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: left;
+    color: #FA4A0C;
+}
+
+h3 {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: #252B42;
+
+}
+
